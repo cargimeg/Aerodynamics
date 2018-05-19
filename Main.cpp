@@ -10,7 +10,6 @@
 #include "Types\Force.hpp"
 #include <string>
 #include <iostream>
-
 #include "NormalShock.hpp"
 
 

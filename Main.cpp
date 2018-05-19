@@ -1,7 +1,8 @@
+
+#include "Types\Types.hpp"
 #include "Types\Pressure.hpp"
 #include "Types\Temperature.hpp"
 #include "Types\Distance.hpp"
-#include "NormalShock.hpp"
 #include "Types\Mass.hpp"
 #include "Types\Time.hpp"
 #include "Types\Velocity.hpp"
@@ -9,7 +10,8 @@
 #include "Types\Force.hpp"
 #include <string>
 #include <iostream>
-#include "Types\Types.hpp"
+
+#include "NormalShock.hpp"
 
 
 int main()

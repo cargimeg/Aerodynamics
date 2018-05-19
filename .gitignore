@@ -9,3 +9,6 @@ Debug/
 *.exe
 *.db
 *.obj
+*.opendb
+*.VC.db
+.vs/

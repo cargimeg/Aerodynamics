@@ -1,10 +1,10 @@
 #ifndef NormalShock_HPP
 #define NormalShock_HPP
 
-#include "Pressure.hpp"
-#include "Temperature.hpp"
+#include "Types\Pressure.hpp"
+#include "Types\Temperature.hpp"
 #include "math.h"
-#include "Types.hpp"
+#include "Types\Types.hpp"
 
 class NormalShock
 {

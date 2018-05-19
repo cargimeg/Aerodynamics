@@ -16,49 +16,40 @@
     <Filter Include="Header Files\NewFilter1">
       <UniqueIdentifier>{14d15749-b350-49f7-81ad-51c0ea7e8e32}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Units">
-      <UniqueIdentifier>{703a4797-c45b-4a34-80ee-0154c64414a4}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Units\Header">
-      <UniqueIdentifier>{36371258-dc18-4177-97fb-581d49a63287}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Units\Source">
-      <UniqueIdentifier>{410675db-e5a6-4aa7-b506-dad2a29e9efb}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="NormalShock.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Distance.hpp">
-      <Filter>Units\Header</Filter>
+    <ClInclude Include="Types\Acceleration.hpp">
+      <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Mass.hpp">
-      <Filter>Units\Header</Filter>
+    <ClInclude Include="Types\Area.hpp">
+      <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Pressure.hpp">
-      <Filter>Units\Header</Filter>
+    <ClInclude Include="Types\Distance.hpp">
+      <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Temperature.hpp">
-      <Filter>Units\Header</Filter>
+    <ClInclude Include="Types\Force.hpp">
+      <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Time.hpp">
-      <Filter>Units\Header</Filter>
+    <ClInclude Include="Types\Mass.hpp">
+      <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Velocity.hpp">
-      <Filter>Units\Header</Filter>
+    <ClInclude Include="Types\Pressure.hpp">
+      <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Area.hpp">
-      <Filter>Units\Header</Filter>
+    <ClInclude Include="Types\Temperature.hpp">
+      <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Acceleration.hpp">
-      <Filter>Units\Header</Filter>
+    <ClInclude Include="Types\Time.hpp">
+      <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Force.hpp">
-      <Filter>Units\Header</Filter>
+    <ClInclude Include="Types\Types.hpp">
+      <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Types.hpp">
-      <Filter>Units\Header</Filter>
+    <ClInclude Include="Types\Velocity.hpp">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -68,35 +59,35 @@
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Distance.cpp">
-      <Filter>Units\Source</Filter>
+    <ClCompile Include="Types\Acceleration.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Mass.cpp">
-      <Filter>Units\Source</Filter>
+    <ClCompile Include="Types\Area.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Pressure.cpp">
-      <Filter>Units\Source</Filter>
+    <ClCompile Include="Types\Distance.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Temperature.cpp">
-      <Filter>Units\Source</Filter>
+    <ClCompile Include="Types\Force.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Time.cpp">
-      <Filter>Units\Source</Filter>
+    <ClCompile Include="Types\Mass.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Velocity.cpp">
-      <Filter>Units\Source</Filter>
+    <ClCompile Include="Types\Pressure.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Area.cpp">
-      <Filter>Units\Source</Filter>
+    <ClCompile Include="Types\Temperature.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Acceleration.cpp">
-      <Filter>Units\Source</Filter>
+    <ClCompile Include="Types\Time.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Force.cpp">
-      <Filter>Units\Source</Filter>
+    <ClCompile Include="Types\Types.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Types.cpp">
-      <Filter>Units\Source</Filter>
+    <ClCompile Include="Types\Velocity.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

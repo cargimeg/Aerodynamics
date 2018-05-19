@@ -1,15 +1,15 @@
-#include "Pressure.hpp"
-#include "Temperature.hpp"
-#include "Distance.hpp"
+#include "Types\Pressure.hpp"
+#include "Types\Temperature.hpp"
+#include "Types\Distance.hpp"
 #include "NormalShock.hpp"
-#include "Mass.hpp"
-#include "Time.hpp"
-#include "Velocity.hpp"
-#include "Acceleration.hpp"
-#include "Force.hpp"
+#include "Types\Mass.hpp"
+#include "Types\Time.hpp"
+#include "Types\Velocity.hpp"
+#include "Types\Acceleration.hpp"
+#include "Types\Force.hpp"
 #include <string>
 #include <iostream>
-#include "Types.hpp"
+#include "Types\Types.hpp"
 
 
 int main()
